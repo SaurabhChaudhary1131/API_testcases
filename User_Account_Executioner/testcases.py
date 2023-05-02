@@ -60,5 +60,3 @@ class Tests:
         assert req3 == "account does not match" , "something wrong"
 
 
-obj = Tests()
-obj.test_account_creation()
